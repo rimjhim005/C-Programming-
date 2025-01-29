@@ -1,2 +1,2 @@
 # C-Programming-
-Collecting my c programme journey problems 
+Collecting code of my C Journey 
